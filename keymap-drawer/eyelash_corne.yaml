@@ -7,7 +7,7 @@ layers:
   - E
   - R
   - T
-  - '&mmv 64936'
+  - '&mmv 64536'
   - Y
   - U
   - I
@@ -20,9 +20,9 @@ layers:
   - D
   - F
   - G
-  - '&mmv 4255645696'
+  - '&mmv 4229431296'
   - '&mkp MB1'
-  - '&mmv 39321600'
+  - '&mmv 65536000'
   - H
   - J
   - K
@@ -36,7 +36,7 @@ layers:
   - V
   - B
   - NONE
-  - '&mmv 600'
+  - '&mmv 1000'
   - N
   - M
   - {t: ',', s: <}
@@ -78,10 +78,10 @@ layers:
   - {t: '[', s: '{'}
   - {t: ']', s: '}'}
   - {t: \, s: '|'}
+  - $$mdi:apple-keyboard-shift$$
   - {t: '$$mdi:keyboard-tab$$', h: '$$mdi:gesture-tap-hold$$'}
-  - RGB OFF
-  - RGB ON
-  - EP TOG
+  - RGB TOG
+  - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - RGB EFF
   - $$mdi:volume-off$$
@@ -104,7 +104,7 @@ layers:
   - PREVIOUS
   - $$mdi:arrow-up-bold$$
   - $$mdi:skip-next$$
-  - PgUp
+  - '&msc 100'
   - '&mmv 64336'
   - '34013219'
   - '34013220'
@@ -117,7 +117,7 @@ layers:
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-down-bold$$
   - $$mdi:arrow-right-bold$$
-  - PgDn
+  - '&msc 65436'
   - '&mmv 4216324096'
   - '&mkp MB1'
   - '&mmv 78643200'
